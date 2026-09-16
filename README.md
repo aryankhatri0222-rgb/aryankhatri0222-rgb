@@ -1,49 +1,53 @@
-<!-- ========================================================= -->
-<!--                    ARYAN KHATRI README                    -->
-<!-- ========================================================= -->
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:161b22&height=220&section=header&text=ARYAN%20KHATRI&fontSize=55&fontColor=00ff9c&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%7C%20VAPT%20%7C%20Web%20Application%20Security&descAlignY=58&descSize=18&descColor=8b949e"/>
-
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=%3E+Initializing+Security+Profile...;%3E+Web+Application+VAPT;%3E+Penetration+Testing;%3E+OWASP+Top+10;%3E+Manual+Security+Testing;%3E+Breaking+Applications+to+Understand+How+to+Secure+Them" />
-</a>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/aryan-khatri-581537284/">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c"/>
-</a>
-<a href="https://github.com/aryankhatri0222-rgb">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff9c"/>
-</a>
-<a href="mailto:aryankhatri82@gmail.com">
-<img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=aryankhatri0222-rgb&style=flat-square&color=00ff9c&label=PROFILE+VIEWS"/>
-
+# 👋 Hey, I'm Aryan Khatri
+### 🔐 Cybersecurity • VAPT • Web Application Security
+**Breaking applications to understand how to secure them.**
+[![LinkedIn]\([https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)\](https://www.linkedin.com/in/aryan-khatri-581537284/](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square\&logo=linkedin\&logoColor=white\)]\(https://www.linkedin.com/in/aryan-khatri-581537284/))
+[![GitHub]\([https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)\](https://github.com/aryankhatri0222-rgb](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white\)]\(https://github.com/aryankhatri0222-rgb))
+[![Email]\([https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)\](mailto:aryankhatri82@gmail.com](https://img.shields.io/badge/Email-D14836?style=flat-square\&logo=gmail\&logoColor=white\)]\(mailto:aryankhatri82@gmail.com))
 </div>
-
 ---
-
-# `whoami`
-
-```bash
-┌──(aryan㉿kali)-[~]
-└─$ whoami
-
-Aryan Khatri
-
-┌──(aryan㉿kali)-[~]
-└─$ cat profile.txt
-
-Role        : Cybersecurity VAPT Intern
-Focus       : Web Application Security
-Speciality  : Vulnerability Assessment & Penetration Testing
-Methodology : OWASP
-Environment : Kali Linux
-Mindset     : Think like an attacker. Build like a defender.
+## 🧑‍💻 About Me
+I'm an **Information Technology graduate and Cybersecurity VAPT practitioner** focused on finding, validating, and documenting security vulnerabilities in web applications and APIs.
+🔐 Currently working as a **Cybersecurity VAPT Intern at Aronix Web Tech**
+🎯 Interested in **Penetration Testing, Web Application Security & Application Security**
+💻 I enjoy working with **Burp Suite, Nmap, OWASP ZAP, Kali Linux and Wireshark**
+---
+## ⚔️ Security Arsenal
+### 🔴 Web Security
+![Burp Suite]\([https://img.shields.io/badge/Burp\_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square\&logo=burpsuite\&logoColor=white))
+![OWASP]\([https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white](https://img.shields.io/badge/OWASP-000000?style=flat-square\&logo=owasp\&logoColor=white))
+![OWASP ZAP]\([https://img.shields.io/badge/OWASP\_ZAP-00549E?style=flat-square](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square))
+![Nmap]\([https://img.shields.io/badge/Nmap-4682B4?style=flat-square](https://img.shields.io/badge/Nmap-4682B4?style=flat-square))
+![Nikto]\([https://img.shields.io/badge/Nikto-333333?style=flat-square](https://img.shields.io/badge/Nikto-333333?style=flat-square))
+`SQL Injection` `XSS` `IDOR/BOLA` `CSRF`  
+`Authentication` `Authorization` `CORS` `Business Logic` `API Security`
+### 🌐 Network Security
+![Wireshark]\([https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square\&logo=wireshark\&logoColor=white))
+![Kali Linux]\([https://img.shields.io/badge/Kali\_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square\&logo=kalilinux\&logoColor=white))
+![Metasploit]\([https://img.shields.io/badge/Metasploit-2596CD?style=flat-square](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square))
+`TCP/IP` `DNS` `DHCP` `HTTP/HTTPS` `Packet Analysis` `Reconnaissance`
+### 💻 Scripting
+![Python]\([https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/Python-3670A0?style=flat-square\&logo=python\&logoColor=white))
+![Bash]\([https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white](https://img.shields.io/badge/Bash-121011?style=flat-square\&logo=gnubash\&logoColor=white))
+![SQL]\([https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white))
+---
+# 🔬 What I Do
+### 🌐 Web Application VAPT
+My security testing workflow:
+```text
+Reconnaissance
+      ↓
+Attack Surface Discovery
+      ↓
+Enumeration
+      ↓
+Vulnerability Scanning
+      ↓
+Manual Testing
+      ↓
+Exploitation / Validation
+      ↓
+Risk Assessment
+      ↓
+Remediation Reporting
