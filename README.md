@@ -127,11 +127,9 @@ Hands-on cybersecurity labs covering areas such as:
 
 `Linux` `Networking` `Reconnaissance` `Enumeration` `Web Security`
 
-🔗 [TryHackMe Profile](https://tryhackme.com/)
+🔗 [TryHackMe Profile]([https://tryhackme.com/p/aryankhatri82])
 
-> ⚠️ Replace the link above with your personal TryHackMe profile URL.
 
----
 
 # 💼 Professional Experience
 
@@ -164,6 +162,7 @@ Hands-on cybersecurity labs covering areas such as:
 
 - 🎓 **Deloitte Cybersecurity Job Simulation** — Completed
 - 🧪 **PortSwigger Web Security Academy** — Active Practitioner
+- 👾 **Tryhackme** - Active Practitioner
 - 🔐 **CompTIA Security+** — In Progress
 - 🌐 **OWASP Top 10**
 - 🔍 **Web Application VAPT & Security Testing**
