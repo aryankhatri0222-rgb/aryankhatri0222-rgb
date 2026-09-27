@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for aryankhatri0222-rgb --> 
    
 <div align="center">   
-
+ 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:003B2F,100:00C896&height=190&section=header&text=Aryan%20Khatri&fontSize=48&fontColor=00FF9C&fontAlignY=38&desc=Cybersecurity%20%7C%20VAPT%20%7C%20Web%20Application%20Security&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Aryan Khatri — Cybersecurity VAPT Web Application Security banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=00FF9C&center=true&vCenter=true&width=720&lines=%24+whoami+%E2%86%92+Cybersecurity+VAPT+Practitioner;%24+mission+%E2%86%92+Find%2C+validate%2C+and+help+fix+vulnerabilities;%24+focus+%E2%86%92+Web+Applications+%7C+APIs+%7C+Application+Security" alt="Animated cybersecurity introduction" />
