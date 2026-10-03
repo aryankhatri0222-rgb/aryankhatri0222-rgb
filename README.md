@@ -65,7 +65,7 @@ I’m an **Information Technology graduate and Cybersecurity VAPT practitioner**
 
 ---
 
-## `> web application VAPT workflow`
+## `> web application VAPT workflow` 
 
 ```mermaid
 flowchart LR
